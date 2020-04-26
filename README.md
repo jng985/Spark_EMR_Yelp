@@ -19,7 +19,7 @@ The data, which consists of several `json` files, have been published to an `AWS
   - https://9760-spark-data.s3.amazonaws.com/yelp_academic_dataset_review.json
 
 
-Goals:
+## Goals:
 
 - Provision a Spark cluster on AWS EMR
 
