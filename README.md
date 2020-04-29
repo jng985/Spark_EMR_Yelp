@@ -27,15 +27,8 @@ The data, which consists of several `json` files, have been published to an `AWS
 
 - Run a series of queries in PySpark that answer a few simple questions about the Yelp Data available
 
-## EMR Cluster Configuration 
 
-![](assets/aws_cluster.png)
-
-## Notebook Configuration
-
-![](assets/aws_nb.png)
-
-### `Analysis.ipynb` Notebook
+#### `Analysis.ipynb`
 
 - **Part I**: Installation and Initial Setup
 
@@ -44,6 +37,15 @@ The data, which consists of several `json` files, have been published to an `AWS
 - **Part III**: Do Yelp Reviews Skew Negative?
 
 - **Part IV**: Should the Elite be Trusted?
+
+## EMR Cluster Configuration 
+
+![](assets/aws_cluster.png)
+
+## Notebook Configuration
+
+![](assets/aws_nb.png)
+
 
 
 
