@@ -29,9 +29,13 @@ The data, which consists of several `json` files, have been published to an `AWS
 
 ## EMR Cluster Configuration 
 
+![](assets/aws_cluster.png)
+
 ## Notebook Configuration
 
-### `Analysis.ipynb`
+![](assets/aws_nb.png)
+
+### `Analysis.ipynb` Notebook
 
 - **Part I**: Installation and Initial Setup
 
