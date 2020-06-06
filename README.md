@@ -38,7 +38,7 @@ The data, which consists of several `json` files, have been published to an `AWS
 
 - **Part IV**: Should the Elite be Trusted?
 
-## EMR Cluster Configuration 
+## AWS EMR Cluster Configuration 
 
 ![](assets/aws_cluster.png)
 
